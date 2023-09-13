@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,olehd.com
 DOMAIN-SUFFIX,olelive.com
 DOMAIN-KEYWORD,olevod
    #唐人街https://www.tangrenjie.tv/
- - DOMAIN-KEYWORD,tangrenjie
+ DOMAIN-KEYWORD,tangrenjie
   #影片域名与“海外看相同”
   #海外看
  - DOMAIN-KEYWORD,haiwaikan
