@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>LOON CA 1693665267151.crt</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIDCDCCAfCgAwIBAgIBADANBgkqhkiG9w0BAQsFADAvMQ0wCwYD
+			VQQKDARMb29uMR4wHAYDVQQDDBVMT09OIENBIDE2OTM2NjUyNjcx
+			NTEwHhcNMjMwOTAyMTQzNDI3WhcNMjgwODMxMTQzNDI3WjAvMQ0w
+			CwYDVQQKDARMb29uMR4wHAYDVQQDDBVMT09OIENBIDE2OTM2NjUy
+			NjcxNTEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDC
+			ITQ0cYbFbYAIaIyRPlRi0JDa+99+6H7BW2ASUmr+KjdnCzIXabwo
+			N60AFxeYd5mDTxobT2AlBOIwBjGMKqntOC2S5lBnJzmuk2joUQrs
+			/m94yxaEIcDvQbowIoBGXI8Pt+vnLNTNbJj8vGitiwOcvgbNaSYI
+			YRNMgs819ISaiM+J32OFqpiVcll4ff6qTkx5FWblUpEHisQhL4wx
+			zz2piJ6iIdPNpJeIx3jS/OMPu8bVfWD6/p1lcn8K3kVsljJeLctZ
+			0lkENc7/oCeC2i014nCyzABhF+M36wJmq3UNTx86OiRneNpzcCeQ
+			3xvgJlNbpVHlFT3dLCoRBw73yOaVAgMBAAGjLzAtMAwGA1UdEwQF
+			MAMBAf8wHQYDVR0OBBYEFGel1QOxKcxiwdOg0/9Rn4BzIRKoMA0G
+			CSqGSIb3DQEBCwUAA4IBAQCkJesOUDkC0WXA4elvvlWlKEjEcw5A
+			93Ic+Zxq8I5eYCIHH6fmSihxyDunw5FqFu8j6arIHXEmhWjAr7sb
+			HLCjxHQn26XjlTOS8gLgw4aDb3E7qMmVpYNF0TJVDyHxwuGh7XH7
+			4zRLir5x9MZnEYyUFj11LRVAUSbaahDo4vyRCciGSBKaW9kbZog+
+			jPtEGGFgcwsCBtxYBr9m9CO/2SAfKUPFY8kqtVJlbnFWo4aaMPos
+			MTM4JqdAXkflSiWdorPVC5Qam0MUxa2sEIhC+5fpjr+csWCDDXgR
+			k9XDOajDqHpevi60JpCoT6igN5i44WIBAHOPK/+2MGUXgvxGhDKl
+			</data>
+			<key>PayloadDescription</key>
+			<string>添加 CA 根证书</string>
+			<key>PayloadDisplayName</key>
+			<string>LOON CA 1693665267151</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.root.5C0BF918-68B6-4CB7-A9B8-5D01FE5D2D3A</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>5C0BF918-68B6-4CB7-A9B8-5D01FE5D2D3A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>LoonCA</string>
+	<key>PayloadIdentifier</key>
+	<string>zhangyuxiangdeMacBook-Air.AE41E94D-B119-466F-9E12-B2AEE65C404F</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>EF5F647E-EED3-486E-ACD2-025D0386D0B6</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
